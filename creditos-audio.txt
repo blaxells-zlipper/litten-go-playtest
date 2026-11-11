@@ -1,0 +1,23 @@
+No dejes que te atrapen — Créditos de audio
+
+Música
+"Night of Chaos", Kevin MacLeod (incompetech.com).
+https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300042
+Creative Commons Atribución 4.0 Internacional
+https://creativecommons.org/licenses/by/4.0/
+Conversión a Ogg Vorbis, filtro de graves y fundidos para su uso en el bosque.
+
+Gruñidos y muertes
+"Zombies Sound Pack", artisticdude, CC0 1.0.
+https://opengameart.org/content/zombies-sound-pack
+Clips 16, 18, 20, 6, 17, 19 y 21 para las voces. Clips 15, 12 y 23 para
+las muertes. Adaptados a mono, filtrados y ajustados en tono y volumen.
+
+Disparos
+"The Free Firearm Sound Library", Ben Jaszczak, Brian Nelson, Kevin Heras
+y Matthew Nanney, CC0 1.0.
+https://opengameart.org/content/the-free-firearm-sound-library
+Fragmentos A_42P, K_22P y P_16P, recortados y filtrados para el juego.
+
+Notas de combo, lanzallamas, lanzagranadas y explosión de granada
+Efectos sintetizados para el proyecto.
